@@ -1,0 +1,187 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-image {
+    height:60px;
+    width:60px;
+    background-size:cover;
+
+}
+
+.main-section-card-bg-image {
+    background-image: url("https://media.istockphoto.com/id/967486898/vector/studio-black-mockup.jpg?s=612x612&w=0&k=20&c=YN9LpbeGu-Kb1uTchJE6EKUqaSDRsEH7vqSkcVwVTOg=");
+    background-size:cover;
+   
+}
+
+
+
+
+.front-card-welcome-heading {
+    font-size:60px;
+    font-family:"caveat";
+    font-weight:bolder;
+    color:#916a64;
+
+}
+.front-card-name-heading {
+    font-size:26px;
+    font-family:"roboto";
+    font-weight:bolder;
+    color:white;
+}
+
+.front-card-description{
+    font-size:18px;
+    font-family:"roboto";
+    
+    color:white;
+
+}
+
+.myimage {
+   width:100%
+   
+   
+   
+}
+
+.front-page-button {
+    height:35px;
+    width:120px;
+    background-color:transparent;
+    border-radius:10px;
+    border-width:2px;
+    border-color:#ada4b3;
+    color:burlywood;
+    
+}
+
+.image-card {
+    border-width:3px;
+    border-color:gray;
+    border-style:solid;
+    border-radius:40px;
+    padding:25px;
+
+
+}
+
+.aboutme-heading {
+    color:#916a64;
+    font-size:28px;
+    font-family:"roboto";
+    font-weight:bold;
+}
+
+.aboutme-description {
+    color:#ada4b3;
+    font-size:20px;
+    font-family:"roboto";
+    
+}
+
+.education-card {
+    background-color:antiquewhite;
+    border-radius:10px;
+    border-style:solid;
+    border-color:beige;
+    border-width:2px;
+    padding:24px;
+}
+
+.btech-description {
+    font-size:18px;
+    font-family:"roboto";
+    color:black;
+    
+}
+
+.btech-highlights {
+    font-size:18px;
+    font-family:"roboto";
+    color:black;
+    font-weight:600;
+    
+}
+
+.btech-main-heading {
+    font-size:24px;
+    font-family: "roboto";
+    color:black;
+    font-weight:700;
+    text-decoration: underline;
+    margin-bottom:25px
+}
+
+.education-heading {
+    font-size:32px;
+    font-family:"roboto";
+    color:olive;
+    font-weight:800;
+    margin-bottom:25px;
+
+}
+
+.skills-heading {
+    font-size:28px;
+    font-family:"roboto";
+    font-weight:700px;
+    color:#916a64;
+    margin-top:25px
+   
+}
+
+.skills-description {
+    list-style-type:square;
+    color:#ada4b3;
+    font-size:18px;
+    }
+
+.skills-card {
+    background-color:white;
+    border-radius:12px;
+}
+
+
+.projects-heading {
+    font-size:30px;
+    font-family:"roboto";
+    font-weight:800;
+    color:darkgoldenrod;
+}
+
+.projects-card {
+    background-image: linear-gradient(#a9cdd4,#3f1675,#6d876c);
+}
+
+.foodmunch-image {
+    width:100%;
+    border-radius:10px;
+}
+.foodmunch-heading {
+    font-size:22px;
+    font-family:"roboto";
+    color:black;
+    font-weight:400;
+}
+
+.foodmunch-description {
+    font-size:16px;
+    font-family: "roboto";
+    color:#ada4b3;
+}
+
+.image-sizing {
+    font-size:35px;
+    margin-bottom:10px;
+}
+
+.contactus-paragraph {
+    font-size:12px;
+    font-family:"roboto";
+    color:#916a64;
+}
+
+.contactus-card {
+   background-color:antiquewhite;
+}
